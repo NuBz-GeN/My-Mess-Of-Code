@@ -1,5 +1,6 @@
 # My-Mess-Of-Code
 Just little pieces of things or stuff I forked/edited.
 
-nscan.py needs credit to the original author.
-https://github.com/AlexisAhmed
+Credit to orginal author of nscan.py
+https://github.com/AlexisAhmed/Python3-NmapScanner/blob/master/Scanner.py
+His is named different and for now I haven't changed the code much.
