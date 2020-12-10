@@ -1,3 +1,7 @@
+
+##Default Kali newest .bashrc
+## Not my work and have done no editing in it.
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
