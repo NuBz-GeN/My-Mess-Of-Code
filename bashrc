@@ -131,11 +131,3 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-
-#startx at login
-#if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
- #  exec startx
-#fi
-
-
-alias tryhack='sudo openvpn /home/kali/NuBzX.ovpn'
